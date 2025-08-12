@@ -8,3 +8,5 @@ build/
 # macOS
 .DS_Store
 
+# Xcode user data
+ts_doc_list.xcodeproj/xcuserdata/
